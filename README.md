@@ -2,7 +2,7 @@ Hi there! I'm just starting my exciting journey into the world of Machine Learni
 
 > 🤖 What You'll Find Here:
 > 
-**Simple ML Models: **I'm starting with easy-peasy models. Think of them as the ABCs of Machine Learning. We're talking Linear Regression, which is like making a straight line fit through points, and other beginner-friendly stuff.
+**Simple ML Models: ** I'm starting with easy-peasy models. Think of them as the ABCs of Machine Learning. 
 
 **EDA (Exploratory Data Analysis):** This is where I play detective with data. I look at data sets, ask them questions, and try to understand their stories. It's a bit like being a data detective!
 
